@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="csci2020u.lab07.datacontrol">
+   <children>
+      <PieChart fx:id="piechart" layoutX="90.0" layoutY="34.0" prefHeight="332.0" prefWidth="421.0" title="Weather Chart" />
+   </children>
+</AnchorPane>
